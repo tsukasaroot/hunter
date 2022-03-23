@@ -1,11 +1,11 @@
 {
-  "name": "Minimap",
-  "author": "Kerryu",
-  "description": "Add a minimap to the game!",
-  "version": "1.0",
+  "name": "Hunter",
+  "author": "Tsukasaroot",
+  "description": "Display all the other players on minimap!",
+  "version": "1.1",
   "options": {
-    "guiName": "Minimap"
+    "guiName": "Hunter"
   },
-  "servers": ["https://raw.githubusercontent.com/Kerryu/minimap/master/"],
-  "conflicts": ["swim-fix", "chat-sanitizer"]
+  "servers": ["https://raw.githubusercontent.com/Tsukasaroot/hunter/main/"],
+  "conflicts": ["minimap"]
 }
