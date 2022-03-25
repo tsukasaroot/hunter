@@ -3,9 +3,6 @@
   "author": "Tsukasaroot",
   "description": "Display all the other players on minimap!",
   "version": "1.1",
-  "options": {
-    "guiName": "Hunter"
-  },
   "servers": ["https://raw.githubusercontent.com/Tsukasaroot/hunter/main/"],
   "conflicts": ["minimap"]
 }
