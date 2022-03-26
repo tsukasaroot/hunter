@@ -2,7 +2,7 @@
   "name": "Hunter",
   "author": "Tsukasaroot",
   "description": "This is a dummy mod!",
-  "version": "1.2",
+  "version": "1.3",
   "servers": ["https://raw.githubusercontent.com/Tsukasaroot/hunter/main/"],
   "conflicts": ["minimap"]
 }
