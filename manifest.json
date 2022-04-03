@@ -1,9 +1,9 @@
 {
-  "files": {
-    "index.js": "2210b719a84086b1c5ddfe72fca46abbb7bab0cb4aae6d683781d6da4e9a648b",
-    "module.json": "b67e5e48c8031657a9c6de5d3cd6a3c98d26a5845bc5cc6286cf305b3ec9cadd",
-    "lib/chat-sanitizer.js": "527ee0ea6b2773ebc9841a50c044d087c73e59534c447e364a0ee65ff022e81c",
-    "lib/swim-fix.js": "30dadfa58eaa4057e41a6e5139f8f793da9b793885753356b120bdabeaeae12a",
-    "README.md": "4edd96d31f37b03fcbe7de494c04359dddebce080e7d6e8a424ff01a8f2fe5dd"
-  }
+    "files": {
+        "README.md": "e27c89f73ec06a4dc2d4dbf543a4ada49242f402cbf332b3456d17d510f2e593",
+        "index.js": "2a4417100c0769eb88fce6ca06047482acb2f0047b3a58ccceda77d6ed5b3802",
+        "lib/chat-sanitizer.js": "dc55862a02b9bd791f466c66e10fa647f2b7ef5ba0e1f98f138a2540e5d8afb8",
+        "lib/swim-fix.js": "34621db651958eaf08b9e60ed571405337f21b68394d7b427e0cfbe3a141b7b9",
+        "module.json": "18f97a1f194d5f68d9cee0928cd133ac5d6aa329376b8993fd27e23fc6d55b7c"
+    }
 }
